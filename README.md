@@ -3,7 +3,7 @@
 Sitio web estático desarrollado para la materia Programación Web 1.
 
 ## Integrantes
-- Tu Nombre - Maquetación y diseño
+- Bryan Sena Leiva - Maquetación y diseño
 
 ## Descripción
 El proyecto consiste en una tienda de ropa urbana con varias páginas HTML conectadas entre sí.
